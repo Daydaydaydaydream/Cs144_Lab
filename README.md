@@ -1,1 +1,3 @@
-# Cs144_Lab
+Here is README
+
+Will write Lab note in there
